@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Image Format Comparison on Lismahiska</title>
+    <link>https://lismahiska.github.io/tags/image-format-comparison/</link>
+    <description>Recent content in Image Format Comparison on Lismahiska</description>
+    <image>
+      <url>https://lismahiska.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lismahiska.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lismahiska.github.io/tags/image-format-comparison/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which Image Format is Better: JPG or PNG? Find Out Now!</title>
+      <link>https://lismahiska.github.io/posts/which-image-format-is-better-jpg-or-png-find-out-now-/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lismahiska.github.io/posts/which-image-format-is-better-jpg-or-png-find-out-now-/</guid>
+      <description>Introduction Are you trying to decide which image format is better for your project? JPG or PNG? It can be difficult to know which one to choose, as both have their own unique benefits In this blog post, we’ll compare the two formats and provide you with a recommendation for which one to use
+Overview of JPG and PNG JPG (or JPEG) and PNG are both image file formats. They are both used to store digital images and are commonly used on the web.</description>
+    </item>
+    
+  </channel>
+</rss>
